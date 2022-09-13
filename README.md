@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Oleg
-- 👀 I am interested in training Android developer in Kotlin language,
-- 🌱 I am currently taking courses
-- 💞️ I am looking for cooperation for the Junior classification
+- 👀 I am Android engineer developer
+- 🌱 I'm working now
+- 💞️ 
 - 📫 https://t.me/tpov_oleg
 
 <!---
