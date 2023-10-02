@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Oleg
 - 👀 I am Android engineer developer
-- 🌱 I'm working now
+- 🌱
 - 💞️ 
 - 📫 https://t.me/tpov_oleg
 
