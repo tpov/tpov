@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Oleg
 - 👀 I am Android engineer developer
-- 🌱
+- 🌱 Looking for a job, one year of experience
 - 💞️ 
 - 📫 https://t.me/tpov_oleg
 
