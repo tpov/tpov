@@ -1,3 +1,6 @@
+
+![image_2023-11-02_21-28-33](https://github.com/tpov/tpov/assets/33009369/b323b6da-6e32-4ed5-b557-ff64d47c756f)
+
 - 👋 Hi, I’m Oleg
 - 👀 I am Android engineer developer
 - 🌱 Looking for a job, one year of experience
