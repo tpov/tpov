@@ -3,7 +3,7 @@
 
 - 👋 Hi, I’m Oleg
 - 👀 I am Android engineer developer
-- 🌱 Looking for a job
+- 🌱
 - 💞️ 
 - 📫 https://t.me/tpov_oleg
 
